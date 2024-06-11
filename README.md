@@ -1,3 +1,3 @@
-# thefrenchnicolas.github.io
+## thefrenchnicolas.github.io
 
-#Welcome this is in *WIP*
+# Welcome this is in *WIP*
